@@ -6,7 +6,7 @@ The objective of this repository is to make and show a system that solves sudoku
 ### 2.1. solveSudoku1.0.py
 This program is a testing/first version of the program. It solves the soduku and print it in the terminal in a basic way.
 ### 2.2. solveSudoku2.0.py
-This program is the final version of the proyect. Running it, a nice interface appears. If the user selects a square, he or she can try to guess the number by pressing the enter key. If the user fails a cross will appear in the bottom-left corner. Ther will be as many as fails. Pressing the space key the sudoku will be solved automatically by the backtracking algorithm. It is slowed down to be able to look how the algorithm works.
+This program is the final version of the project. Running it, a nice interface appears. If the user selects a square, he or she can try to guess the number by pressing the enter key. If the user fails a cross will appear in the bottom-left corner. Ther will be as many as fails. Pressing the space key the sudoku will be solved automatically by the backtracking algorithm. It is slowed down to be able to look how the algorithm works.
 
   <img src="img/sudoku1.JPG" width="536" align="center">
 
