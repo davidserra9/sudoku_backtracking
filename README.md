@@ -1,6 +1,6 @@
 # Sudoku Solver with Backtracking Algorithm and Graphical User Interface
 ## 1. INTRODUCTION.
-The objective of this repository is to make and show a system that solves sudokus with the backtracking algorithm, but besides to learn and practice the Graphical User Interface with pygame. Backtracking is an algorithmic-technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time. We could say that we are going the sudokus by trial and error and brute force.
+The objective of this repository is to make and show a system that solves sudokus with the backtracking algorithm, but besides, to learn and practice the Graphical User Interface with pygame. Backtracking is an algorithmic-technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time. We could say that we are going the sudokus by trial and error and brute force.
 
 ## 2. CODE
 ### 2.1. solveSudoku1.0.py
